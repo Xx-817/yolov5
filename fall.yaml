@@ -1,0 +1,9 @@
+
+train: .\dataset\train.txt
+val: .\dataset\val.txt
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'fall','sit','stand' ]
